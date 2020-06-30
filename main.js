@@ -108,12 +108,6 @@ function invalidCardCompanies(nestedArray) {
     }
 }
 
-/*const setFunction = array => new Set(array);*/
-
-findInvalidCards(batch);
-console.log(invalidCardsArray);
-invalidCardCompanies(invalidCardsArray);
-console.log(cardCoArray);
 
 
 
